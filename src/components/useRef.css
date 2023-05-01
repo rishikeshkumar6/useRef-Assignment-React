@@ -1,0 +1,16 @@
+.parent{
+    border: 1px solid black;
+    width: 300px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 50px;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+button{
+    width: 150px;
+    margin-top: 50px;
+}
